@@ -1,6 +1,6 @@
-_**Notice**: Development on libstorj is currently on pause during our v3 rearchitecture. Please see https://github.com/storj/storj for ongoing v3 development._
+_**Notice**: Development on libczarcoin is currently on pause during our v3 rearchitecture. Please see https://github.com/czarcoin/czarcoin for ongoing v3 development._
 
-libstorj
+libczarcoin
 =======
 
 [![storj.io](https://storj.io/img/storj-badge.svg)](https://storj.io)
